@@ -1,7 +1,7 @@
 # Medical Camps Management System ( MEDIC )
 
 ## Live Site Link
-[https://medic-61958.web.app/](#)
+[https://medic-61958.web.app]
 
 ## Overview
 This is a comprehensive React-based web application for managing medical camps. It allows participants to explore, register, and provide feedback on camps while enabling organizers to add, update, and manage their medical events. The system incorporates authentication, dashboards, analytics, and payment processing to enhance user experience.
